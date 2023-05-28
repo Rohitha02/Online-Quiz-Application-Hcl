@@ -1,5 +1,5 @@
 # react quiz app with beautiful sound system
-# DEVOLEPED BY HARSHITH AND TEAM FOR MINIOR PROJECT
+# DEVOLEPED BY ROHITHA V FOR HCL MINIOR PROJECT
 
 <br/>
 <br/>
